@@ -1,6 +1,6 @@
 ## Simple Shell Project
 
-![shell.PNG](/shell.PNG.png)
+![shell](/shell.png)
 
 ---
 
