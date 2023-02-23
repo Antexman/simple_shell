@@ -1,9 +1,5 @@
 Simple Shell Project
 
-
-
-**A simple Unix command line interpreter**
-
 ---
 
 ## Table of contents
@@ -345,21 +341,8 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 ```
 
 
-
-## Bugs
-
-
-
-No known Bugs.
-
-
-
 ## TEAM
-
-
 
 Anteneh Asnake
 
 EL Madhdi Oukira 
-
-
