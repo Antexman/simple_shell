@@ -1,9 +1,10 @@
 ## Simple Shell Project
 
+![shell.PNG](/shell.PNG.png)
+
 ---
 
 ## Table of contents
-
 
 
 - **What is the shell?**
