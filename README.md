@@ -342,7 +342,7 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 ```
 
 
-## TEAM
+## Contributors
 
 Anteneh Asnake
 
